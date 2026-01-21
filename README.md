@@ -55,9 +55,7 @@ fokus-tarefas/
 - Som de conclusão quando o tempo termina
 
 ### Gerenciador de Tarefas
-- Adicionar novas tarefas
-- Marcar tarefas como concluídas
-- Deletar tarefas
+- Em andamento
 - Persistência de dados com localStorage
 
 ### Áudio
@@ -79,10 +77,7 @@ Use o Fokus para otimizar suas sessões de trabalho e manter-se produtivo!
 
 Este projeto foi desenvolvido como parte do curso da Alura.
 
-## 🎓 Créditos
-
-Desenvolvido como exercício educacional na plataforma **Alura**.
-
 ---
 
 **Comece agora e mergulhe no que importa!** 🚀
+
